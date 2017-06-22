@@ -11,7 +11,7 @@ import org.junit.Test;
 import com.eaio.stringsearch.BNDM;
 
 public class BNDMTest {
-	BNDM s;
+	private BNDM s;
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
 	}
